@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Lovedeep 👋
+B.Tech CSE Student | Java | DSA | Full Stack Development
 
-<!--
-**Lovedeep466/Lovedeep466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 About Me
+- 🎓 B.Tech CSE at Chitkara University
+- 📅 Expected Graduation: 2028
+- 💻 200+ LeetCode problems solved (tumhari latest confirmed count ke according update karenge)
+- 🌱 Learning Data Structures & Algorithms and Full Stack Development
+- 🚀 Building real-world projects
+🚀 Featured Projects
+- SkillDNA — Skill tracking and developer profile
+- Sign Language Learning Website
+🛠️ Tech Stack
 
-Here are some ideas to get you started:
+Java · JavaScript · React · Node.js · Express.js · MongoDB · Git · GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats
+
+GitHub contribution graph aur coding activity ke sections
