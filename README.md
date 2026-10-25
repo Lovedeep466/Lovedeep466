@@ -10,10 +10,6 @@ B.Tech CSE Student | Java | DSA | Full Stack Development
 🚀 Featured Projects
 - SkillDNA — Skill tracking and developer profile
 - Sign Language Learning Website
+
 🛠️ Tech Stack
-
 Java · JavaScript · React · Node.js · Express.js · MongoDB · Git · GitHub
-
-📊 GitHub Stats
-
-GitHub contribution graph aur coding activity ke sections
